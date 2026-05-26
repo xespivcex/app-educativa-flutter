@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404550274919",
+    "project_id": "mantyapp-ab7e7",
+    "storage_bucket": "mantyapp-ab7e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404550274919:android:317d75c64e95f5227ce9c2",
+        "android_client_info": {
+          "package_name": "com.example.app_educativa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCREGEJVF010ccgDBy9n02VvW9jwZCboKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
