@@ -47,7 +47,7 @@ class MantyApp extends StatelessWidget {
     );
   }
 }
-
+// cambio prueba
 //Pantalla de inicio
 class InicioScreen extends StatefulWidget {
   const InicioScreen({super.key});
